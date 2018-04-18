@@ -13,3 +13,6 @@ class Shoe
   end
 
 end
+
+nike = Shoe.new
+nike.size.condition

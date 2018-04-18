@@ -7,4 +7,6 @@ class Book
     @title
   end
 
+  attr_accessor :name, :page_count, :genre
+
 end

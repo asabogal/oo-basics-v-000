@@ -13,3 +13,7 @@ class Shoe
   end
 
 end
+
+tennis = Shoe.new("Nike")
+
+tennis.brand

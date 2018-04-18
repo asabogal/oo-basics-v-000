@@ -11,6 +11,7 @@ class Shoe
     # if self.condition == "old"
     #   @condtion = "new"
       puts "Your shoe is as good as new!"
+      @condition = "new"
     # end
   end
 

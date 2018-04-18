@@ -14,4 +14,4 @@ class Shoe
 
 end
 
-nike = Shoe.new
+tennis = Shoe.new("Nike")
